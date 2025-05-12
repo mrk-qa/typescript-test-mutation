@@ -49,3 +49,10 @@ O relatório gerado pelo Stryker fornece informações detalhadas sobre:
 - **Cobertura de código**: Percentual de código coberto pelos testes.
 
 O relatório é uma ferramenta essencial para identificar áreas do código que precisam de mais atenção nos testes.
+
+## Contribuindo
+Se você deseja apoiar este projeto, deixe um ⭐.
+
+___
+
+Feito com 💙 por [Marco Antonio](https://www.linkedin.com/in/mrk-silva/).
