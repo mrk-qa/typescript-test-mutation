@@ -4,6 +4,9 @@ module.exports = {
   testRunner: 'jest',
   coverageAnalysis: 'off',
   mutate: ['src/**/*.ts'],
+  htmlReporter: {
+    fileName: 'reports/mutation/index.html',
+  },
   jest: {
     configFile: 'jest.config.js'
   }
